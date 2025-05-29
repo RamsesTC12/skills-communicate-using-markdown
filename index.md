@@ -1,8 +1,5 @@
-# I'm doing by first time a Markdown file XD
-## If I understood this is a h2 label
-### this is h3 label
-#### this is h4
-##### this one is h5
-###### and this is the final, h6
+# Exercise: Usign markdown .md 
+There are many ways to type differents headers you just need to use an # tag as many header you want.
 
-I added several lines using differents header scales usign #
+# This is an example adding an image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
