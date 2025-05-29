@@ -10,3 +10,8 @@ Javascript code
   let greet = "Github is very fun!";
   console.log(greet);
 ```
+# Lets do a checklist using - [ ] sintax:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Get my first job like Web Developer
